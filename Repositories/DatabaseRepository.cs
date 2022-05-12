@@ -27,7 +27,7 @@ namespace WebApplication1.Repository
 
             List<BookData> books = new List<BookData>();
             List<string> searchTerms = new List<string> {
-                "lord of the rings", "harry potter", "programming", "survival", "nature", "photography" , "design" , "design", "physics"};
+                "lord of the rings", "harry potter", "programming", "survival", "nature", "photography" , "design", "physics"};
 
             BookDataResponse result = new BookDataResponse();
 
@@ -39,7 +39,7 @@ namespace WebApplication1.Repository
                     for (int b = 0; b < 5; b++)
                     {
                         var text = "https://www.googleapis.com/books/v1/volumes?q=" + searchTerms[i] + "&langRestrict=en&startIndex=" + 40 * b + "&maxResults=" + 40 * (b + 1) + "";
-                        HttpResponseMessage response = await new HttpClient().GetAsync("https://www.googleapis.com/books/v1/volumes?q=" + searchTerms[i] + "&langRestrict=en&startIndex=" + 40 * b + "&maxResults=1");
+                        HttpResponseMessage response = await new HttpClient().GetAsync("https://www.googleapis.com/books/v1/volumes?q=" + searchTerms[i] + "&langRestrict=en&startIndex=" + 40 * b + "&maxResults=40");
                         if (response.IsSuccessStatusCode)
                         {
                             data = await response.Content.ReadFromJsonAsync<BookDataResponse>();
@@ -55,7 +55,7 @@ namespace WebApplication1.Repository
                     }
                 }
 
-                var booksForSale = books;
+                var booksForSale = books.Where(x => x.SaleInfo.Saleability == "FOR_SALE").ToList();
 
                 List<BookData> booksAdded = new List<BookData>();
 

@@ -21,6 +21,7 @@ namespace WebApplication1.Repository
         public IEnumerable<BookData> GetAll()
         {
             var result = _context.Books
+                .Where(x => x.SaleInfo.Saleability == "FOR_SALE")
                 .Include(a => a.VolumeInfo)
                 .Include(a => a.VolumeInfo.ReadingModes)
                 .Include(a => a.VolumeInfo.PanelizationSummary)
