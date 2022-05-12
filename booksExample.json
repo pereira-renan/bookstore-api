@@ -1,0 +1,736 @@
+{
+  "operationType": "List all books from database",
+  "booksAdded": 10,
+  "items": [
+    {
+      "kind": "books#volume",
+      "bookId": "89a48d87-d5cf-451a-2030-08da226ba8b4",
+      "id": "Xr2JdOzmmwAC",
+      "etag": "OZrO79X+5uQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xr2JdOzmmwAC",
+      "volumeInfo": {
+        "volumeInfoId": "89a48d87-d5cf-451a-2030-08da226ba8b4",
+        "title": "Soy of Cooking",
+        "authors": [],
+        "publisher": "Chronimed Publishing",
+        "publishedDate": "1996",
+        "description": "This collection of over 170 recipes using a variety of easy-to-find soyfoods maximizes the health benefits while offering creative and delicious gourmet dishes even the toughest soybean skeptics will enjoy.",
+        "readingModes": {
+          "readingModesId": "8caefe93-83af-4bd7-1d23-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "6178aecd-1790-4f1a-8825-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Xr2JdOzmmwAC&q=cooking&dq=cooking&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Xr2JdOzmmwAC&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Soy_of_Cooking.html?hl=&id=Xr2JdOzmmwAC",
+        "subtitle": "Easy to Make Vegetarian, Low-Fat, Fat-Free, and Antioxidant-Rich Gourmet Recipes",
+        "pageCount": 264
+      },
+      "saleInfo": {
+        "saleInfoId": "89a48d87-d5cf-451a-2030-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "89a48d87-d5cf-451a-2030-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "bf7c0b5b-7695-4416-3909-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "bdd82bbc-f4dd-4ced-c67e-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xr2JdOzmmwAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "89a48d87-d5cf-451a-2030-08da226ba8b4",
+        "textSnippet": "Soy of <b>Cooking</b> is a gourmet guide to preparing savory meatless dishes tkat incorporate nutrient-rick soyfoods into your diet — ki gk in antioxidants and pkytockemicals, as well as fiber and vitamins. With more tkan 1 70 enticing recipes&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "0397c826-586b-4d57-2031-08da226ba8b4",
+      "id": "Q9LWAAAAMAAJ",
+      "etag": "k+BdhZLhTKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q9LWAAAAMAAJ",
+      "volumeInfo": {
+        "volumeInfoId": "0397c826-586b-4d57-2031-08da226ba8b4",
+        "title": "Cooking with Japanese Foods",
+        "authors": [],
+        "publisher": "Avery",
+        "publishedDate": "1993",
+        "description": null,
+        "readingModes": {
+          "readingModesId": "428e571a-ebba-470d-1d24-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "120090e2-0d85-4477-8826-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Q9LWAAAAMAAJ&q=cooking&dq=cooking&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Q9LWAAAAMAAJ&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cooking_with_Japanese_Foods.html?hl=&id=Q9LWAAAAMAAJ",
+        "subtitle": "A Guide to the Traditional Natural Foods of Japan",
+        "pageCount": 220
+      },
+      "saleInfo": {
+        "saleInfoId": "0397c826-586b-4d57-2031-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "0397c826-586b-4d57-2031-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "820a2a16-d657-46ce-390a-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "a4cfe224-5bf1-4c01-c67f-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q9LWAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "0397c826-586b-4d57-2031-08da226ba8b4",
+        "textSnippet": "Here , then , is a comprehensive and definitive guide to the foods , history , and <b>cooking</b> techniques of this most time - honored fare . <b>Cooking</b> With Japanese Foods explores over fifty different foods - from azuki beans to mountain yams&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "a28d3940-7ca2-4cd2-2032-08da226ba8b4",
+      "id": "kHAvAAAAYAAJ",
+      "etag": "m/TOjCpvaKs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kHAvAAAAYAAJ",
+      "volumeInfo": {
+        "volumeInfoId": "a28d3940-7ca2-4cd2-2032-08da226ba8b4",
+        "title": "Cooking Out-of-doors",
+        "authors": [],
+        "publisher": null,
+        "publishedDate": "1946",
+        "description": "\"A guide for all who would take to the trail and stop along the way for a hiker's snack or a woodland feast. Basic information on ways of building fires, kinds of fuel, methods of food care, progressive menus, and cook-outs have been included for new troops that are just beginning to explore the adventure of cooking out. Experienced troops will improve their skill by using the advanced techniques and recipes found in these pages.\"--Pref.",
+        "readingModes": {
+          "readingModesId": "2f368063-e1d2-46a5-1d25-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "a74c0687-b7b2-4ba1-8827-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=kHAvAAAAYAAJ&q=cooking&dq=cooking&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=kHAvAAAAYAAJ&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cooking_Out_of_doors.html?hl=&id=kHAvAAAAYAAJ",
+        "subtitle": "Fire Building, Outdoor Kitchens, Cookout Hikes, Food Planning, Recipes",
+        "pageCount": 123
+      },
+      "saleInfo": {
+        "saleInfoId": "a28d3940-7ca2-4cd2-2032-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "a28d3940-7ca2-4cd2-2032-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "b680b966-6cc4-4efd-390b-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "246ac3f2-19da-457b-c680-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kHAvAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "a28d3940-7ca2-4cd2-2032-08da226ba8b4",
+        "textSnippet": "PAGE Recipes 53 bean hole <b>cooking</b> 53 beverages 55 BREADS 57 CANDIES 63 DESSERTS 65 DESSERT SAUCES 72 MEAT, EGG, FISH, AND CHEESE DISHES 74 ONE-POT MEALS 78 RECIPES FROM OTHER COUNTRIES 83 British Isles 83 Canada 84 China 84 Finland 85&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "1e9fe302-1262-4cb5-2033-08da226ba8b4",
+      "id": "ungbAQAAMAAJ",
+      "etag": "BgIWfagsM9s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ungbAQAAMAAJ",
+      "volumeInfo": {
+        "volumeInfoId": "1e9fe302-1262-4cb5-2033-08da226ba8b4",
+        "title": "Simply Thai Cooking",
+        "authors": [],
+        "publisher": "Robert Rose Incorporated",
+        "publishedDate": "2003",
+        "description": "The owner of a popular Thai restaurant teams up with the personal chef of Mick Jagger and Robert DeNiro to offer readers a sumptuous collection of Thai recipes, most of which can be prepared in under thirty minutes and contain little fat. Original. 25,000 first printing.",
+        "readingModes": {
+          "readingModesId": "0282e784-485e-4809-1d26-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "770a798b-6fd9-47b5-8828-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=ungbAQAAMAAJ&q=cooking&dq=cooking&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ungbAQAAMAAJ&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Simply_Thai_Cooking.html?hl=&id=ungbAQAAMAAJ",
+        "subtitle": null,
+        "pageCount": 192
+      },
+      "saleInfo": {
+        "saleInfoId": "1e9fe302-1262-4cb5-2033-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "1e9fe302-1262-4cb5-2033-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "d2732be4-69a1-4e7f-390c-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "e086ae8a-ee3a-424e-c681-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ungbAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "1e9fe302-1262-4cb5-2033-08da226ba8b4",
+        "textSnippet": "SIATE university libraries Simply T TM SECONu tuitiun Thai <b>cooking</b> is exhilarating, it&#39;s exotic- and now it&#39;s easier to make than ever before. With Simply Thai <b>Cooking</b>, Second Edition you will find easy-to-follow recipes for a wide&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "d42ecfb0-dcc2-4fb9-2034-08da226ba8b4",
+      "id": "WLWisGTY-q4C",
+      "etag": "3ifjNZlppFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WLWisGTY-q4C",
+      "volumeInfo": {
+        "volumeInfoId": "d42ecfb0-dcc2-4fb9-2034-08da226ba8b4",
+        "title": "Cooking is an Act of Love",
+        "authors": [],
+        "publisher": "Countryman Press",
+        "publishedDate": "1986",
+        "description": null,
+        "readingModes": {
+          "readingModesId": "79e4a1f1-e6f2-4baf-1d27-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "1cf15b1b-031d-4a5e-8829-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=WLWisGTY-q4C&q=cooking&dq=cooking&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=WLWisGTY-q4C&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cooking_is_an_Act_of_Love.html?hl=&id=WLWisGTY-q4C",
+        "subtitle": null,
+        "pageCount": 165
+      },
+      "saleInfo": {
+        "saleInfoId": "d42ecfb0-dcc2-4fb9-2034-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "d42ecfb0-dcc2-4fb9-2034-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "49dfe768-144b-4779-390d-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "c518fe34-5f9c-4258-c682-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WLWisGTY-q4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "d42ecfb0-dcc2-4fb9-2034-08da226ba8b4",
+        "textSnippet": "<b>Cooking</b> and love became for me forever linked. Typical Mary Frances recipes were baking powder biscuits smothered with the creamed remains of the midday dinner, fluffy omelettes which l could make in my grandmother&#39;s hinged omelette pan&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "1b138230-5437-46ba-2035-08da226ba8b4",
+      "id": "BM2f5BQRY6IC",
+      "etag": "+/f/mEmcYYI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BM2f5BQRY6IC",
+      "volumeInfo": {
+        "volumeInfoId": "1b138230-5437-46ba-2035-08da226ba8b4",
+        "title": "Cooking Afloat",
+        "authors": [],
+        "publisher": null,
+        "publishedDate": "1959",
+        "description": null,
+        "readingModes": {
+          "readingModesId": "0dbde738-bf8f-41dd-1d28-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "e0554df8-b704-42e5-882a-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=BM2f5BQRY6IC&q=cooking&dq=cooking&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=BM2f5BQRY6IC&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cooking_Afloat.html?hl=&id=BM2f5BQRY6IC",
+        "subtitle": null,
+        "pageCount": 279
+      },
+      "saleInfo": {
+        "saleInfoId": "1b138230-5437-46ba-2035-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "1b138230-5437-46ba-2035-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "78643c8d-e064-4ad3-390e-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "19d3f2ce-f39e-4fb4-c683-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BM2f5BQRY6IC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "1b138230-5437-46ba-2035-08da226ba8b4",
+        "textSnippet": "... 23 Teapot, 15 Thermometer, oven, ll Timers, 18 Toasters, 19 Tongs, <b>cooking</b>, 18 Tongue, boiled beef, and vegetables, 105 canned, 42, 45 hot braised, 106 sliced, in wine sauce, 107 smoked, Divan, 107-108 pot-au-feu, 99 Tools, <b>cooking</b>,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "915a46f3-6c78-4aa4-2036-08da226ba8b4",
+      "id": "Cl0sAAAAYAAJ",
+      "etag": "YXsPqjlTW1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cl0sAAAAYAAJ",
+      "volumeInfo": {
+        "volumeInfoId": "915a46f3-6c78-4aa4-2036-08da226ba8b4",
+        "title": "Cooking from the Garden",
+        "authors": [],
+        "publisher": "Random House (NY)",
+        "publishedDate": "1988",
+        "description": "A gourmet gardener presents illustrated plans for seventeen savory theme gardens and 180 corresponding recipes, celebrating and providing guidance in the best of garden-based cuisine",
+        "readingModes": {
+          "readingModesId": "291276a7-a5bc-4e59-1d29-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "7e0ddff9-4ac1-45ad-882b-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Cl0sAAAAYAAJ&q=cooking&dq=cooking&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Cl0sAAAAYAAJ&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cooking_from_the_Garden.html?hl=&id=Cl0sAAAAYAAJ",
+        "subtitle": null,
+        "pageCount": 547
+      },
+      "saleInfo": {
+        "saleInfoId": "915a46f3-6c78-4aa4-2036-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "915a46f3-6c78-4aa4-2036-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "df70ebfd-45ff-4837-390f-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "6af0b2db-bc4c-4c4b-c684-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cl0sAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "915a46f3-6c78-4aa4-2036-08da226ba8b4",
+        "textSnippet": "Stuffed squash, 331 Stuffed &#39;Striped Cavern&#39; tomatoes or &#39;Sunburst Pattypan&#39; squash, 331 &#39;Stump of the World&#39; tomato, 18-19 Succotash, 76, 78-79 Sugar snap peas, 158, 161, 281, 289, 482 <b>cooking</b>: Oriental style, 289, 434 growing,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "796dca23-4c07-48bf-2037-08da226ba8b4",
+      "id": "UuBGAAAAYAAJ",
+      "etag": "pn9OQb4qPs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UuBGAAAAYAAJ",
+      "volumeInfo": {
+        "volumeInfoId": "796dca23-4c07-48bf-2037-08da226ba8b4",
+        "title": "Learning Through Cooking",
+        "authors": [],
+        "publisher": "R & E Pub",
+        "publishedDate": "1982",
+        "description": null,
+        "readingModes": {
+          "readingModesId": "7ad3211c-387e-49e5-1d2a-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "1f671a57-06f1-4391-882c-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=UuBGAAAAYAAJ&q=cooking&dq=cooking&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UuBGAAAAYAAJ&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Through_Cooking.html?hl=&id=UuBGAAAAYAAJ",
+        "subtitle": "A Cooking Program for Children Two to Ten",
+        "pageCount": 85
+      },
+      "saleInfo": {
+        "saleInfoId": "796dca23-4c07-48bf-2037-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "796dca23-4c07-48bf-2037-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "0e506f5d-451b-4453-3910-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "65cda445-e129-41f9-c685-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UuBGAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "796dca23-4c07-48bf-2037-08da226ba8b4",
+        "textSnippet": "A <b>Cooking</b> Program for Children Two to Ten Nancy J. Ferreira. - * : * * * * * * - - LEARNING THROUGH <b>COOKING</b>: A <b>Cooking</b> Program for Children Two to."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "d4ec9f9b-d84c-4d33-2038-08da226ba8b4",
+      "id": "X628Iwa2wrEC",
+      "etag": "a/Gu4nRd2rk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X628Iwa2wrEC",
+      "volumeInfo": {
+        "volumeInfoId": "d4ec9f9b-d84c-4d33-2038-08da226ba8b4",
+        "title": "Sunset Vegetarian Cooking",
+        "authors": [],
+        "publisher": null,
+        "publishedDate": "1981",
+        "description": null,
+        "readingModes": {
+          "readingModesId": "dc41a30c-3c6e-4303-1d2b-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "899b6969-bc1a-4a9c-882d-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=X628Iwa2wrEC&q=cooking&dq=cooking&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=X628Iwa2wrEC&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sunset_Vegetarian_Cooking.html?hl=&id=X628Iwa2wrEC",
+        "subtitle": null,
+        "pageCount": 96
+      },
+      "saleInfo": {
+        "saleInfoId": "d4ec9f9b-d84c-4d33-2038-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "d4ec9f9b-d84c-4d33-2038-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "617e13e9-5611-476c-3911-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "1ed5e0a8-8b62-4226-c686-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X628Iwa2wrEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "d4ec9f9b-d84c-4d33-2038-08da226ba8b4",
+        "textSnippet": "Oxmoor House. i Vegetarian <b>Cooking</b> By the Editors of Sunset Books and Sunset."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "bookId": "f09e4305-dd5f-4dde-2039-08da226ba8b4",
+      "id": "smebzRad1msC",
+      "etag": "TaDPpRpplfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/smebzRad1msC",
+      "volumeInfo": {
+        "volumeInfoId": "f09e4305-dd5f-4dde-2039-08da226ba8b4",
+        "title": "Microwave Cooking, for One & Two",
+        "authors": [],
+        "publisher": null,
+        "publishedDate": "1981",
+        "description": null,
+        "readingModes": {
+          "readingModesId": "38ccf17b-dec3-4a1a-1d2c-08da226ba8c8",
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [],
+        "averageRating": null,
+        "ratingsCount": null,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "panelizationSummaryId": "6ed39ad0-638a-4c38-882e-08da226ba8c7",
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": null,
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=smebzRad1msC&q=cooking&dq=cooking&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=smebzRad1msC&dq=cooking&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Microwave_Cooking_for_One_Two.html?hl=&id=smebzRad1msC",
+        "subtitle": null,
+        "pageCount": 160
+      },
+      "saleInfo": {
+        "saleInfoId": "f09e4305-dd5f-4dde-2039-08da226ba8b4",
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false,
+        "listPrice": null,
+        "retailPrice": null,
+        "buyLink": null
+      },
+      "accessInfo": {
+        "accessInfoId": "f09e4305-dd5f-4dde-2039-08da226ba8b4",
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "ePubId": "2b669aa6-e26d-487c-3912-08da226ba8bd",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "pdf": {
+          "pdfId": "b0a94371-f934-426a-c687-08da226ba8be",
+          "isAvailable": false,
+          "acsTokenLink": null
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=smebzRad1msC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "searchInfoId": "f09e4305-dd5f-4dde-2039-08da226ba8b4",
+        "textSnippet": "microwave <b>cooking</b> library . . According to the last census , there are more households of one or two people than ever before in history . Their number is growing . The microwave oven is an ideal appliance for the small household ."
+      }
+    }
+  ]
+}
